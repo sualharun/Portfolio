@@ -236,9 +236,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+- **Email**: [sualharun.wl@example.com]
 
 ---
 
