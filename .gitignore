@@ -1,0 +1,103 @@
+# ==================== Generated Files ====================
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# ==================== IDE Files ====================
+
+### Spring Tool Suite ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+# ==================== Operating System ====================
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+### Windows ###
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+### Linux ###
+*~
+.directory
+.Trash-*
+
+# ==================== Application Specific ====================
+
+### Logs ###
+*.log
+logs/
+spring.log
+
+### H2 Database ###
+*.h2.db
+*.trace.db
+*.lock.db
+
+### Environment Variables ###
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+### Temporary Files ###
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+### Security ###
+*.pem
+*.key
+*.p12
+*.jks
+secrets/
+credentials/
+
+# ==================== Portfolio Specific ====================
+
+### Large Files ###
+# Uncomment to ignore large original images
+# /src/main/resources/static/images/originals/
+
+### Backup Files ###
+*.backup
+*.bak
+
+### Personal Notes ###
+# Uncomment to ignore personal development notes
+# notes.txt
+# TODO.md
